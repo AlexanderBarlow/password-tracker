@@ -5,7 +5,7 @@ This project solves the issue of keeping track of passwords related to certain a
 
 ## Installation
 
-To use our application please visit: 
+To use our application please visit: https://blooming-lowlands-22066.herokuapp.com/login
 <br>Login or Signup to use or application.
 
 ## Usage
